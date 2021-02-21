@@ -127,7 +127,7 @@ class MyApp extends StatelessWidget {
                     children: <Widget>[
                       Expanded(
                         child: Image.network(
-                            'https://images.daznservices.com/di/library/GOAL/c0/68/gerard-pique-barcelona-yellow-card-2020-21_1b5pixs2oir8s1hy0nwfy1tnrz.jpg?t=1931977831&amp;quality=60&amp;w=700'),
+                            'https://images.indianexpress.com/2020/09/lionel-messi.jpg'),
                       ),
                       SizedBox(
                         width: 10,
@@ -135,7 +135,7 @@ class MyApp extends StatelessWidget {
                       Expanded(
                           child: Center(
                         child: Text(
-                            "Pique Bilang Wasit Untungkan Madrid, Koeman Tepuk Jidat",
+                            "Barcelona incar lima penyerang untuk cari pengganti Lionel Messi",
                             style: TextStyle(fontSize: 9)),
                       )),
                       SizedBox(
@@ -149,7 +149,7 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                         border: Border.all(
                             color: Colors.blueGrey.withOpacity(0.5))),
-                    child: Text("Barcelona Feb 13,2021",
+                    child: Text("Barcelona Feb 20,2021",
                         style: TextStyle(fontSize: 10)),
                     height: 40,
                     width: 500,
